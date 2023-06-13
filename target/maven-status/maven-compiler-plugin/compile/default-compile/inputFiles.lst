@@ -1,0 +1,6 @@
+/home/retlaw/Documentos/repositorios/learningSpringboot/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springboot/backend/apirest/SpringBootBackendApirestApplication.java
+/home/retlaw/Documentos/repositorios/learningSpringboot/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/entity/Cliente.java
+/home/retlaw/Documentos/repositorios/learningSpringboot/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/dao/IClienteDao.java
+/home/retlaw/Documentos/repositorios/learningSpringboot/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springboot/backend/apirest/controllers/ClienteRestController.java
+/home/retlaw/Documentos/repositorios/learningSpringboot/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/services/IClienteService.java
+/home/retlaw/Documentos/repositorios/learningSpringboot/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/services/ClienteServiceImpl.java
